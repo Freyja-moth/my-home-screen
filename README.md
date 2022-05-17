@@ -2,11 +2,7 @@
 The homescreen I use for firefox 
 
 ## Screenshots
-![Home page](https://user-images.githubusercontent.com/103472619/168796689-64a8e1ee-47ac-4aff-9bc6-dfd546f4fa5d.png)
-
-## Compiling
-cd /Assets
-tsc script.js
+![home page](https://user-images.githubusercontent.com/103472619/168877851-97dd03dc-e774-4470-b0e3-a2ef010c4e46.png)
 
 ## Using 
 Open index.html 
