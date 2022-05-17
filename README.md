@@ -12,3 +12,6 @@ Open about:preferences#home in a new tab
 Select custom url in the Homepage and new windows sections
 
 Copy the address of index.html into the url box
+
+## Future stuff
+I might try out a frosted glass look
