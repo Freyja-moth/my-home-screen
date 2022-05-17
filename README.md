@@ -6,6 +6,9 @@ The homescreen I use for firefox
 
 ## Using 
 Open index.html 
+
 Open about:preferences#home in a new tab
+
 Select custom url in the Homepage and new windows sections
+
 Copy the address of index.html into the url box
