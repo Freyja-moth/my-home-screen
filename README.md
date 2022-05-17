@@ -4,6 +4,10 @@ The homescreen I use for firefox
 ## Screenshots
 ![Home page](https://user-images.githubusercontent.com/103472619/168796689-64a8e1ee-47ac-4aff-9bc6-dfd546f4fa5d.png)
 
+## Compiling
+cd /Assets
+tsc script.js
+
 ## Using 
 Open index.html 
 
