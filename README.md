@@ -28,7 +28,7 @@ Select custom url in the Homepage and new windows sections
 Copy the address of index.html into the url box
 
 ---
-**Alternative**
+***Alternative***
 
 Open [index.html](index.html)
 
