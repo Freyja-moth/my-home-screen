@@ -27,6 +27,8 @@ Discord: Ranni simp#2453
 ![home page](https://user-images.githubusercontent.com/103472619/168937753-4f83b4e6-2205-4926-84bf-38fc1bd08a40.png)
 >As far as I can tell this is the original source for the background
 >
+>If I've wrongly creditied it please let me know in the issues tab
+>
 >http://getdrawings.com/get-vector#forest-vector-29.jpg
 
 ## For home page
