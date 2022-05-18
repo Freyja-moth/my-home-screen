@@ -16,7 +16,7 @@ Discord: Ranni simp#2453
 
 - [New tab](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#for-new-tab) 
 
-- [ToDo](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#todo)
+- [ToDo](https://github.com/Andrea-moth/my-home-screen/blob/main/README.md#todo)
 
 ## Features
 
