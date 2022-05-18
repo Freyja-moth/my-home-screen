@@ -65,3 +65,7 @@ Create a new project in Vercel and use the repo you've just made
 Once it's finished building go to [New Tab Overide](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/) and install it
 
 When it's installed click on the icon in your tab bar, go to the URL section and enter https://{repo name}.vercel.app/
+
+## ToDo
+
+[ ] Refactor styling to allow for multiple window sizes and formats
