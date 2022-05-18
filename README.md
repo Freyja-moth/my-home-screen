@@ -5,7 +5,17 @@ Created by [@Andrea-moth](https://github.com/Andrea-moth)
 
 Discord: Ranni simp#2453
 
-## Includes
+## Index
+
+- [Features](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#Includes)
+
+- [Screenshots](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#screenshots)
+
+- [Home page](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#for-home-page)
+
+- [New tab](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#for-new-tab) 
+
+## Features
 
 - Clock 
 
@@ -16,7 +26,7 @@ Discord: Ranni simp#2453
 ## Screenshots
 ![home page](https://user-images.githubusercontent.com/103472619/168937753-4f83b4e6-2205-4926-84bf-38fc1bd08a40.png)
 
-## Using for home page
+## For home page
 ***:exclamation:   Only works for firefox***
 
 Open [index.html](index.html)
@@ -34,7 +44,8 @@ Open [index.html](index.html)
 
 Drag the tab down to the home icon 
 
-## Using for new tab 
+
+## For new tab 
 
 ***Don't feel bad for stealing my work just leave [README.md](README.md) intact***
 
