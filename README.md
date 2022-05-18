@@ -5,13 +5,13 @@ Created by [@Andrea-moth](https://github.com/Andrea-moth)
 
 Discord: Ranni simp#2453
 
-##Includes
+## Includes
 
--Clock 
+- Clock 
 
--Bookmarks (can be customized with some html knowledge)
+- Bookmarks (can be customized with some html knowledge)
 
--Search bar
+- Search bar
 
 ## Screenshots
 ![home page](https://user-images.githubusercontent.com/103472619/168937753-4f83b4e6-2205-4926-84bf-38fc1bd08a40.png)
