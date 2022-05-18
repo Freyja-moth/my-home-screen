@@ -46,6 +46,7 @@ html, body {
 	border-color: #6c6a7d;
 	border-radius: 15px;
 	border-style: solid;
+	border-width: 5px;
 	background-color: #1e1e2e;
 	opacity: 0.8;
 	position: relative;
@@ -132,6 +133,8 @@ html, body {
 	width: 50%;
 	top: 50%;
 }
+
+
 a{
 	font-size: 25px;
 	color: #a37096;
@@ -142,5 +145,9 @@ a:link{
 }
 a:hover{
 	cursor: default;
-	color: #b2679f;
+	color: #804772;
+}
+a:focus{
+	outline: none;
+	color: #804772;
 }
