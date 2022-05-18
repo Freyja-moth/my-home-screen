@@ -68,4 +68,4 @@ When it's installed click on the icon in your tab bar, go to the URL section and
 
 ## ToDo
 
-[ ] Refactor styling to allow for multiple window sizes and formats
+- [ ] Refactor styling to allow for multiple window sizes and formats
