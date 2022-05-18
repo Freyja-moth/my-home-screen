@@ -33,9 +33,10 @@ function searchQuery(event){
         return;
     }
     var query = document.getElementById("search-bar").value;
+    query = query.replace("+", "%2B");
     query = query.split(" ");
     query = query.join("+");
-    query = query.replace("+", "%2B");
+    
     window.location.assign("https://duckduckgo.com/?t=ffab&q="+ query);
 }
 
