@@ -1,9 +1,10 @@
-# My homescreen
-The homescreen I created for firefox 
+# My homescreen 
 
 Created by [@Andrea-moth](https://github.com/Andrea-moth)
 
 Discord: Ranni simp#2453
+
+**Works best in firefox**
 
 ## Index
 
