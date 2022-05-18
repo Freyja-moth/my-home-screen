@@ -15,9 +15,9 @@ function clock() {
     if (String(hours).length == 1){
         hours = "0" + hours; 
     } if (String(minutes).length == 1){
-        hours = "0" + minutes; 
+        minutes = "0" + minutes; 
     } if (String(date).length == 1){
-        hours = "0" + date; 
+        date = "0" + date; 
     }
 
     var useDay = "- ".concat(day, " - ");
