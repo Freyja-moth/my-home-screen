@@ -4,7 +4,9 @@ Created by [@Andrea-moth](https://github.com/Andrea-moth)
 
 Discord: Ranni simp#2453
 
-**Works best in firefox**
+**This was coded for firefox, it'll work in other browsers but I don't know how well it'll work**
+
+---
 
 If you want to test it out before downloading it follow this [link](https://my-home-screen.vercel.app/)
 
