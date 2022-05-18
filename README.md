@@ -4,7 +4,7 @@ Created by [@Andrea-moth](https://github.com/Andrea-moth)
 
 Discord: Ranni simp#2453
 
-**This was coded for firefox, it'll work in other browsers but I don't know how well it'll work**
+**This was coded for firefox, it'll work in other browsers but I don't know how well**
 
 ---
 
