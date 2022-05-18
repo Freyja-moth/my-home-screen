@@ -6,6 +6,8 @@ Discord: Ranni simp#2453
 
 **Works best in firefox**
 
+If you want to test it out before downloading it follow this [link](https://my-home-screen.vercel.app/)
+
 ## Index
 
 - [Features](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#Includes)
