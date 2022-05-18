@@ -5,7 +5,7 @@ Created by [@Andrea-moth](https://github.com/Andrea-moth)
 
 Discord: Ranni simp#2453
 
-Includes
+##Includes
 
 -Clock 
 
@@ -17,7 +17,7 @@ Includes
 ![home page](https://user-images.githubusercontent.com/103472619/168937753-4f83b4e6-2205-4926-84bf-38fc1bd08a40.png)
 
 ## Using for home page
-### ***:exclamation:   Only works for firefox***
+***:exclamation:   Only works for firefox***
 
 Open [index.html](index.html)
 
@@ -27,7 +27,8 @@ Select custom url in the Homepage and new windows sections
 
 Copy the address of index.html into the url box
 
-### **Alternative**
+---
+**Alternative**
 
 Open [index.html](index.html)
 
