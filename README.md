@@ -8,7 +8,7 @@ Discord: Ranni simp#2453
 
 ---
 
-If you want to test it out before downloading it follow this [link](https://my-home-screen.vercel.app/)
+If you want to test it out before downloading it here's a [live dem](https://my-home-screen.vercel.app/)
 
 ## Index
 
