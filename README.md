@@ -31,7 +31,7 @@ If you want to test it out before downloading it here's a [live demo](https://my
 - Search bar
 
 ## Screenshots
-![home page](https://user-images.githubusercontent.com/103472619/168937753-4f83b4e6-2205-4926-84bf-38fc1bd08a40.png)
+![home page](https://user-images.githubusercontent.com/103472619/169249228-7abbe8a0-8fe0-4abe-b264-649bd4627577.png)
 >As far as I can tell this is the original source for the background
 >
 >If I've wrongly creditied it please let me know in the issues tab
