@@ -75,6 +75,6 @@ When it's installed click on the icon in your tab bar, go to the URL section and
 
 ## ToDo
 
-- [x] Refactor styling to allow for multiple window sizes and formats (parially done)
+- [x] Refactor styling to allow for multiple window sizes and formats (partially done)
 
 - [ ] Play around with a frosted glass look
