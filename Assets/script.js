@@ -1,7 +1,7 @@
-function clock() {
-    const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-    const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
+function clock() {
     var currentDate = new Date();
 
     var date = currentDate.getDate();
@@ -12,21 +12,15 @@ function clock() {
     var hours = currentDate.getHours();
     var minutes = currentDate.getMinutes();
     
-    if (String(hours).length == 1){
-        hours = "0" + hours; 
-    } if (String(minutes).length == 1){
-        minutes = "0" + minutes; 
-    } if (String(date).length == 1){
-        date = "0" + date; 
-    }
+    hours = String(hours).padStart(2, "0")
+    minutes = String(minutes).padStart(2, "0")
+    date = String(date).padStart(2, "0")
 
-    var useDay = "- ".concat(day, " - ");
-    var useDate = "".concat(date, " ").concat(month, " ").concat(year, " ");
-    var useTime = "".concat(hours, ":").concat(minutes);
+    var useDate = `${date} ${month} ${year}`
+    var useDay = day;
+    var useTime = `${hours}:${minutes}`
 
-    document.getElementById("date").innerHTML = useDate;
-    document.getElementById("day").innerHTML = useDay;
-    document.getElementById("time").innerHTML = useTime;
+    document.getElementById("clock").innerHTML = `${useDate} - ${useDay} - ${useTime}`;
 }
 function searchQuery(event){
     if (event.keyCode != 13){
@@ -36,7 +30,7 @@ function searchQuery(event){
     query = query.replace("+", "%2B");
     query = query.split(" ");
     query = query.join("+");
-    
+    console.log(query);
     window.location.assign("https://duckduckgo.com/?t=ffab&q="+ query);
 }
 
