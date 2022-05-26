@@ -27,10 +27,12 @@ function searchQuery(event){
         return;
     }
     var query = document.getElementById("search-bar").value;
-    query = query.replace("+", "%2B");
+    
+    query = query.replaceAll("+", "%2B");        
+
     query = query.split(" ");
     query = query.join("+");
-    console.log(query);
+
     window.location.assign("https://duckduckgo.com/?t=ffab&q="+ query);
 }
 
