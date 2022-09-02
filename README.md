@@ -31,7 +31,7 @@ If you want to test it out before downloading it here's a [live demo](https://my
 - Search bar
 
 ## Screenshots
-![home page](https://user-images.githubusercontent.com/103472619/169249228-7abbe8a0-8fe0-4abe-b264-649bd4627577.png)
+![home page](../main/Preview/home%20page.png)
 >As far as I can tell this is the original source for the background
 >
 >If I've wrongly creditied it please let me know in the issues tab
@@ -50,6 +50,7 @@ Select custom url in the Homepage and new windows sections
 Copy the address of index.html into the url box
 
 ---
+
 ***Alternative***
 
 Open [index.html](index.html)
