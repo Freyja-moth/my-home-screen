@@ -12,13 +12,13 @@ If you want to test it out before downloading it here's a [live demo](https://my
 
 ## Index
 
-- [Features](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#Includes)
+- [Features](https://github.com/Andrea-moth/my-home-screen/blob/main/README.md#Includes)
 
-- [Screenshots](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#screenshots)
+- [Screenshots](https://github.com/Andrea-moth/my-home-screen/blob/main/README.md#screenshots)
 
-- [Home page](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#for-home-page)
+- [Home page](https://github.com/Andrea-moth/my-home-screen/blob/main/README.md#for-home-page)
 
-- [New tab](https://github.com/Andrea-moth/my-home-screen/edit/main/README.md#for-new-tab) 
+- [New tab](https://github.com/Andrea-moth/my-home-screen/blob/main/README.md#for-new-tab) 
 
 - [ToDo](https://github.com/Andrea-moth/my-home-screen/blob/main/README.md#todo)
 
